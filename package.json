@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cookie-session": "^2.1.0",
+    "cookies": "^0.9.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "exs": "^1.0.2",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "name": "passport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
